@@ -100,6 +100,7 @@ body {
     top: 0;
     left: 0;
     background-color: rgba(52, 52, 50, 0.749);
+    opacity: 0;
     visibility: hidden;
 }
 
@@ -117,7 +118,7 @@ body {
     background-color: #ffffff;
     color: #f03a17;
     font-size: 20px;
-    font-weight: bald;
+    font-weight: bold;
     width: 40px;
     text-align: center;
     cursor: pointer;
